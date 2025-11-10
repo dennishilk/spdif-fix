@@ -1,1 +1,4 @@
-*.nix linguist-language=Brainfuck
+*.txt linguist-language=Brainfuck
+README.md linguist-language=Brainfuck
+docs/* linguist-vendored
+backup/* linguist-vendored
