@@ -1,4 +1,7 @@
-*.txt linguist-language=Brainfuck
-README.md linguist-language=Brainfuck
+*.b linguist-language=Brainfuck
+*.bf linguist-language=Brainfuck
+*.nix linguist-language=C++
+*.sh linguist-language=Python
+
 docs/* linguist-vendored
 backup/* linguist-vendored
